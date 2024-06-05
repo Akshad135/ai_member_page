@@ -1,0 +1,185 @@
+{
+  "students": [
+    {
+      "id": "01",
+      "name": "xyz",
+      "designation": "Team Leader",
+      "image": {
+        "webp": "src/assets/Adarsh.png",
+        "png": "src/assets/Adarsh.png",
+        "alt": "John Doe picture"
+      }
+    },
+      {
+        "id": "02",
+        "name": "Crossbuk",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "src/assets/Adarsh.png",
+          "png": "C:/Users/hp/Desktop/Official Web/New-Website-dev-repo/src/assets/Adarsh.png",
+          "alt": "Crossbuk logo design"
+        }
+      },
+      {
+        "id": "03",
+        "name": "Kalopsee",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "src/assets/Adarsh.png",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Kalopsee logo design"
+        }
+      },
+      {
+        "id": "04",
+        "name": "Kartì",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "src/assets/Adarsh.png",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Kartì logo branding design"
+        }
+      },
+      {
+        "id": "05",
+        "name": "Adaptive",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "src/assets/Adarsh.png",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Keyes logo branding design"
+        }
+      },
+      {
+        "id": "06",
+        "name": "7soli",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "src/assets/Adarsh.png",
+          "png": "src/assets/Adarsh.png",
+          "alt": "7soli logo branding design"
+        }
+      },
+      {
+        "id": "07",
+        "name": "Mediartrade",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "src/assets/Adarsh.png",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Mediartrade branding design"
+        }
+      },
+      {
+        "id": "08",
+        "name": "Duels",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "src/assets/Adarsh.png",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Duels logo design"
+        }
+      },
+      {
+        "id": "09",
+        "name": "Hive",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "img/branding/hive.webp",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Hive logo design"
+        }
+      },
+      {
+        "id": "10",
+        "name": "Saling Tour",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "img/branding/saling.webp",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Saling logo branding design"
+        }
+      },
+      {
+        "id": "11",
+        "name": "Bastiò",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "img/branding/bastio.webp",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Bastiò logo branding design"
+        }
+      },
+      {
+        "id": "12",
+        "name": "Lucean",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "img/branding/lucean.webp",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Lucean logo branding design"
+        }
+      },
+      {
+        "id": "13",
+        "name": "K95",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "img/branding/k95.webp",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Studio K95 branding design"
+        }
+      },
+      {
+        "id": "14",
+        "name": "Roberto Grillo",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "img/branding/rg.webp",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Roberto Grillo branding design"
+        }
+      },
+      {
+        "id": "15",
+        "name": "Muse",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "img/branding/muse.webp",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Muse logo branding design"
+        }
+      },
+      {
+        "id": "16",
+        "name": "Centro Ippocrate",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "img/branding/ippo.webp",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Centro Veterinario Ippocrate branding design"
+        }
+      },
+      {
+        "id": "17",
+        "name": "Daikidojo",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "img/branding/daik.webp",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Daikidojo branding design"
+        }
+      },
+      {
+        "id": "18",
+        "name": "Tree",
+        "designation": "Team Leader",
+        "image": {
+          "webp": "img/branding/tree.webp",
+          "png": "src/assets/Adarsh.png",
+          "alt": "Tree logo design"
+        }
+      }
+    ]
+  }
+  

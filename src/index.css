@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+} */
+
+body {
+  width: 100vw;
+  /* display: flex;
+  flex-direction: column; */
+  overflow-x: hidden;
+  background-color: #f1f1f1;
+}
+
+*::selection{
+  color: #f1f1f1;
+  background-color: #474747;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+}
+
+.iframe-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  /* Full viewport height */
+  overflow: hidden;
+}
+
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.homePage {
+  background-image: url("./assets/globe-bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ai-title {
+  font-size: 100px;
+}
+
+
+::-webkit-scrollbar {
+  width: 11px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #474747;
+  border-radius: 5px;
+  border: 2px solid #7c7c6f;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
